@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+spyleads.db
+*.db
+.pytest_cache/
